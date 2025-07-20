@@ -9,6 +9,11 @@
         "type": "git",
         "url": "https://github.com/zhaoyixiao/node-red-zyx.git"
     },
+    "node-red":{
+        "nodes":{
+            "test-node":"node.js"
+        }
+    },
     "scripts": {
         "test": "grunt"
     },
