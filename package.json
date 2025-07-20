@@ -1,0 +1,23 @@
+{
+    "name": "node-red-zyx-test",
+    "version": "0.1.0",
+    "description": "测试节点",
+    "homepage": "http://nodered.org",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhaoyixiao/node-red-zyx.git"
+    },
+    "scripts": {
+        "test": "grunt"
+    },
+    "keywords": [
+        "node-red",
+        "zyx",
+        "flow"
+    ],
+    "author":"zyx",
+    "engines": {
+        "node": ">=12"
+    }
+}
